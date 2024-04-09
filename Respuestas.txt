@@ -1,3 +1,10 @@
 ¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
     No, esto es debido a que este se encuentra en la rama Opcion_2, una rama distinta a en la que nos encontramos, y los cambios realizados en esa rama son propios de ella al menos hasta el momento de unirla con la principal.
-    
+
+¿Qué diferencias nota entre los gráficos antes y después de agregar Respuestas.txt?
+    El gráfico antes de agregar Respuestas.txt consiste de dos puntos, uno amarillo que dice main (el cual representa a la versión actual) y otro azul que dice Opcion_2 (el cual representa a las otras versiones), los cuales están unidos por una línea recta.
+    El gráfico después de agregar Respuestas.txt en el main tiene una nueva línea que sale de la línea que une el origen con el punto amarillo (donde nos encontramos parados actualmente) que dice main. Esta linea nueva lleva a un nuevo punto que dice Opcion_2. 
+    Cada punto representa una versión del repositorio, y la nueva línea representa una rama que sale del main en cierto punto (y hasta el momento no se vuelve a unir), la cual contiene una versión del repositorio. 
+
+¿Qué nota en el gráfico después de hacer el merge?
+    Aparece una nueva linea que une la rama Opcion_2 con el punto amarillo que dice main.
