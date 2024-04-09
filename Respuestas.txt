@@ -1,0 +1,3 @@
+¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+    No, esto es debido a que este se encuentra en la rama Opcion_2, una rama distinta a en la que nos encontramos, y los cambios realizados en esa rama son propios de ella al menos hasta el momento de unirla con la principal.
+    
