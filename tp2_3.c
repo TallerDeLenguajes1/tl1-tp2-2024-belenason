@@ -17,7 +17,7 @@ int main(){
         for(j = 0;j<M; j++)
         {
             *(punt + i*N + j) = 1+rand()%100;
-            printf("%d ", *(punt + i*N + j));
+            printf("%d ", *(punt + i*M + j));
         }
         printf("\n");
     }
